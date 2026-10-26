@@ -8,6 +8,6 @@
 𓊆 <a href="https://kypaw.atabook.org/">atabook</a> ◞ <a href="https://fluffle.cc/cartlee">shared fluffle.cc</a> ◞ <a href="https://pronouns.cc/@namyi">pronouns.cc</a> 𓊇
 
 
-
-<img width="707" height="1243" alt="IMG_4528" src="https://github.com/user-attachments/assets/798f440b-9333-48eb-aaa7-b40f74d1f0ee" />
+<p align="center">
+<img width="400" height="auto" alt="IMG_4528" src="https://github.com/user-attachments/assets/798f440b-9333-48eb-aaa7-b40f74d1f0ee" />
 
