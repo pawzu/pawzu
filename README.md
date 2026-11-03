@@ -17,6 +17,11 @@
 </div>
 
 <div align="center">
+<a href="https://kypaw.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4894.png"/></a><a href="https://fluffle.cc/cartlee"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4895.png"/></a><a href="https://pronouns.cc/@namyi"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4896.png"/></a>
+
+</div>
+
+<div align="center">
 <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4885.png" />
 
 </div>
