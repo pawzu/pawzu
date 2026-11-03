@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-<a href="https://kypaw.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4897.png"/></a><a href="https://fluffle.cc/cartlee"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4898.png"/></a><a href="https://pronouns.cc/@namyi"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4899.png"/></a>
+<a href="https://kypaw.atabook.org/"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4897.png"/></a><a   href="https://fluffle.cc/cartlee"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4898.png"/></a><a   href="https://pronouns.cc/@namyi"><img src="https://file.garden/an64hms_LR8WfCYE/IMG_4899.png"/></a>  
 
 </div>
 
