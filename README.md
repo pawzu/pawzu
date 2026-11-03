@@ -15,7 +15,7 @@
 
 </div>
 
-<h6 align="center">𓊆 <a href="https://kypaw.atabook.org/">atabook</a> ◞ <a href="https://fluffle.cc/cartlee">shared fluffle.cc</a> ◞ <a href="https://pronouns.cc/@namyi">pronouns.cc</a> 𓊇
+<h6 align="center">𓊆 <a href="https://kypaw.atabook.org/">atabook</a> ◞ <a href="https://kudochi.straw.page/">strawpage</a> ◞ <a href="https://fluffle.cc/cartlee">shared fluffle.cc</a> ◞ <a href="https://pronouns.cc/@namyi">pronouns.cc</a> 𓊇
 
 </div>
 
