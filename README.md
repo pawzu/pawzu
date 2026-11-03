@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<a href="https://hits.sh/github.com/pawzu/"><img alt="Hits" src="https://hits.sh/github.com/pawsnack.svg?style=for-the-badge&label=BAIT%20!&color=BAF11A&labelColor=FEFEFE"/></a>
+<a href="https://hits.sh/github.com/pawzu/"><img alt="Hits" src="https://hits.sh/github.com/pawsnack.svg?style=for-the-badge&label=BAIT%20!&color=4A0027&labelColor=5A8783"/></a>
 
 <h6 align="center">
 𓊆 <a href="https://kypaw.atabook.org/">atabook</a> ◞ <a href="https://fluffle.cc/cartlee">shared fluffle.cc</a> ◞ <a href="https://pronouns.cc/@namyi">pronouns.cc</a> 𓊇
