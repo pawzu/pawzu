@@ -7,6 +7,8 @@
 <p align="center">
 <a href="https://hits.sh/github.com/pawzu/"><img alt="Hits" src="https://hits.sh/github.com/pawsnack.svg?style=for-the-badge&label=BAIT%20!&color=4A0027&labelColor=5A8783"/></a>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=15&pause=1000&color=5A8783&center=true&vCenter=true&width=435&lines=Do+i+look+like+your+girlfriend%3F" alt="Typing SVG" /></a>
 
 <div align="center">
 <img src="https://file.garden/an64hms_LR8WfCYE/IMG_4883.png" />
